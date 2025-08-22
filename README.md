@@ -59,6 +59,6 @@ Use responsibly ⚡.
 
 Cybernerddd
 
-GitHub: @cybernerddd[https://github.com/cybernerddd]
+GitHub: [cybernerddd](https://github.com/cybernerddd)
 
-LinkedIn: [https://www.linkedin.com/in/emmanuel-a-284803370/]Emmanuel A.
+LinkedIn: [Emmanuel Agyarko Ampah](https://www.linkedin.com/in/emmanuel-a-284803370/)
